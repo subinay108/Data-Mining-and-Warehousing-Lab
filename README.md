@@ -9,3 +9,4 @@
 - WAPP to visualize data using Bar Chart
 - WAPP to visualize data in subplots
 - WAPP to visualize data using Histogram
+- Download a dataset from kaggle and visualize
