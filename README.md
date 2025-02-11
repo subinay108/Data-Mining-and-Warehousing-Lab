@@ -10,3 +10,6 @@
 - WAPP to visualize data in subplots
 - WAPP to visualize data using Histogram
 - Download a dataset from kaggle and visualize
+
+## Lab-2 Date: 11/02/2025
+- Weather Data Visualization
