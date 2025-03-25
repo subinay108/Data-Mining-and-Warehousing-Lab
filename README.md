@@ -13,3 +13,14 @@
 
 ## Lab-2 Date: 11/02/2025
 - Weather Data Visualization
+
+## Lab-3 Date: 18/02/2025
+- OLAP operations in Oracle
+
+## Lab-4 Date: 25/02/2025
+
+## Lab-6 Date: 18/03/2025
+- Mining Frequent Patterns and Associations and Correlations.
+
+## Lab-7 Date: 25/03/2025
+- Pattern Mining in Multilevel, Multi-Dimensional Space
