@@ -24,3 +24,6 @@
 
 ## Lab-7 Date: 25/03/2025
 - Pattern Mining in Multilevel, Multi-Dimensional Space
+
+## Lab-8 Date: 01/04/2025
+- Classification using Frequent Patterns
