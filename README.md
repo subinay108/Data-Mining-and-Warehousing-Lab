@@ -27,3 +27,6 @@
 
 ## Lab-8 Date: 01/04/2025
 - Classification using Frequent Patterns
+
+## Lab-11 Date: 22/04/2025
+- Support Vector Machines (SVM) for Classification
