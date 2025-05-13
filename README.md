@@ -30,3 +30,12 @@
 
 ## Lab-11 Date: 22/04/2025
 - Support Vector Machines (SVM) for Classification
+
+## Lab-12 Date: 29/04/2025
+- Outlier Analysis
+
+## Lab-13 Date: 06/05/2025
+- Model Evaluation and Selection
+
+## Lab-14 Date: 13/05/2025
+- Data Exploration and Classification with WEKA in python
